@@ -2,10 +2,10 @@
 
 Access the Communication Sample Scene:
 
-Navigate to the following path to load the scene: Communication-Sample\Scene
-Save the Scene as a Template:
+Navigate to the following path to get the scene: Communication-Sample\Scene
 
-Use the "Save as Template" option in the Designer App to save the Communication Sample Scene for future use.
+Save the Scene in the KC as a Template:
+Use the "Save as Template" option in the Designer App to save the Communication Sample Scene.
 
 Play the Scene on the Playout Server:
 Use the Playout Client to play the scene on the Playout Server.
