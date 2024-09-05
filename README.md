@@ -12,3 +12,9 @@ Use the Playout Client to play the scene on the Playout Server.
 
 Run the Communication Sample SDK:
 After completing the above steps, you can now run the Communication Sample SDK for testing or development.
+
+To run the sample, you will use the following commands:
+
+breakstart – to start timer on the scene.
+breakstart;5 – to start the timer on the scene and set the countdown time to 5 seconds.
+breakstop – to stop the timer and out the animation.
