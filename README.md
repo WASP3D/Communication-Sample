@@ -15,7 +15,7 @@ After completing the above steps, you can now run the Communication Sample SDK f
 
 
 
-Steps to follow after downloading:
+**Steps to follow after downloading:**
 
 Extract the downloaded files to a local directory.
 
@@ -29,7 +29,7 @@ Verify that all files are copied correctly.
 
 
 
-To run the sample, you will use the following commands:
+**To run the sample, you will use the following commands:**
 
 breakstart – to start timer on the scene.
 breakstart;5 – to start the timer on the scene and set the countdown time to 5 seconds.
